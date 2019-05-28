@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Profile"
+title                    : "Profile" "About me"
 title_separator          : "-"
 name                     : "Emmet Yeum"
 description              : "An amazing website."
@@ -107,13 +107,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kwangwoo Yeum"
+  name             : "Emmet Yeum"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Amazing person"
   location         : "KR-Seoul"
   email            :
   links:
-    - label: "evolvcor@gmail.com"
+    - label: "Gmail"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
