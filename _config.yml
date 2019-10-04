@@ -134,7 +134,7 @@ author:
       url: "https://instagram.com/"
     - label: "Resume"
       icon: "fas fa-fw fa-link"
-      url: https://kyeum.github.io/first/post/first-post/
+      url: file:///Users/emmet.y/Desktop/KWANGWOO.html
 
 # Site Footer
 footer:
