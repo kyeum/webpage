@@ -112,7 +112,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Mechanical Engineer"
   location         : "KR-Seoul, CA-US"
-  email            :
+  email            : "evolvcor@gmail.com"
   links:
     - label: "Gmail"
       icon: "fas fa-fw fa-envelope-square"
@@ -223,7 +223,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
