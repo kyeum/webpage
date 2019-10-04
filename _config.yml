@@ -43,7 +43,7 @@ comments:
     colorscheme          : "light" # "light" (default), "dark"
   utterances:
     theme                : "github-light" #(default), "github-dark"
-    issue_term           : # "pathname" (default)
+    issue_term           :  "pathname" #(default)
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
@@ -132,6 +132,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "Resume"
+      icon: "fas fa-fw fa-envelope-square"
+      url: file:///anaconda3/pkgs/libxslt-1.1.33-h33a18ac_0/share/doc/libxslt-1.1.33/html/EXSLT/APIfiles.html
 
 # Site Footer
 footer:
