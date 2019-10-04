@@ -133,7 +133,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
     - label: "Resume"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-link"
       url: file:///anaconda3/pkgs/libxslt-1.1.33-h33a18ac_0/share/doc/libxslt-1.1.33/html/EXSLT/APIfiles.html
 
 # Site Footer
