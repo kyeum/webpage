@@ -134,7 +134,7 @@ author:
       url: "https://instagram.com/"
     - label: "Resume"
       icon: "fas fa-fw fa-link"
-      url: file:///anaconda3/pkgs/libxslt-1.1.33-h33a18ac_0/share/doc/libxslt-1.1.33/html/EXSLT/APIfiles.html
+      url: https://kyeum.github.io/first/post/first-post/
 
 # Site Footer
 footer:
