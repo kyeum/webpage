@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home" "About"
+title                    : "Home"
 title_separator          : "-"
 name                     : "Kwangwoo(Emmet) Yeum"
 description              : "Mechanical Engineer"
@@ -82,6 +82,17 @@ google_site_verification :
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
+
+
+
+# Site Setting 2
+locale                   : "AAAS"
+title                    : "B"
+title_separator          : "-"
+
+
+
+
 
 # Social Sharing
 twitter:
