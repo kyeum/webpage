@@ -14,7 +14,7 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 
 remote_theme : mmistakes/minimal-mistakes
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" "default"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" "default"
 
 # Site Settings
 locale                   : "en-US"
@@ -26,7 +26,7 @@ url                      : "https://kyeum.github.io" # the base hostname & proto
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : https://cdn.pixabay.com/photo/2018/07/30/11/20/blood-moon-3572336__340.jpg 
+logo                     : #https://cdn.pixabay.com/photo/2018/07/30/11/20/blood-moon-3572336__340.jpg 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -40,7 +40,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default), "dark"
+    colorscheme          : "light" # "light" (default), "dark"
   utterances:
     theme                : "github-light" #(default), "github-dark"
     issue_term           : # "pathname" (default)
