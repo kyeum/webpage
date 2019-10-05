@@ -13,10 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-# remote theme: jekyll-theme-so-simple
 
-#theme: jekyll-theme-so-simple
-remote_theme: jekyll-theme-so-simple
+theme: jekyll-theme-so-simple
 
 locale                   : "en-US"
 title                    : "Kwangwoo(Emmet) Yeum"
