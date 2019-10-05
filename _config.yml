@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 # remote theme: jekyll-theme-so-simple
 
-theme: jekyll-theme-so-simple
-# remote_theme: mmistakes/so-simple-theme
+#theme: jekyll-theme-so-simple
+remote_theme: mmistakes/so-simple-theme
 locale                   : "en-US"
 title                    : "Kwangwoo(Emmet) Yeum"
 description              : "Mechanical Engineer"
