@@ -1,7 +1,9 @@
 # Sample site navigation bar links
 
-- title: Home2
+- title: Home
   url: /
+- title: External Page
+  url: https://github.com/kyeum/kyeum.github.io/edit/master/_data/navigation.yml
 
 # - title: Categories
 #   url: /categories/
