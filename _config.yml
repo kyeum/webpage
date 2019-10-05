@@ -17,9 +17,8 @@
 
 remote_theme: mmistakes/so-simple-theme
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Kwangwoo(Emmet) Yeum"
 title_separator          : "-"
-name                     : "Kwangwoo(Emmet) Yeum"
 description              : "Mechanical Engineer"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://kyeum.github.io
@@ -38,7 +37,10 @@ disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
   username: kyeum
-
+link:
+   - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 # Liquid
 liquid:
