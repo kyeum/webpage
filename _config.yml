@@ -16,7 +16,8 @@
 # remote theme: jekyll-theme-so-simple
 
 #theme: jekyll-theme-so-simple
-remote_theme: mmistakes/so-simple-theme
+theme: jekyll-theme-so-simple
+
 locale                   : "en-US"
 title                    : "Kwangwoo(Emmet) Yeum"
 description              : "Mechanical Engineer"
