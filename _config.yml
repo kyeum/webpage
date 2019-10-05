@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-theme: jekyll-theme-so-simple
+remote theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 locale                   : "en-US"
 title                    : "Home"
@@ -91,7 +91,7 @@ defaults:
 
 author:
   name             : "Kwangwoo(Emmet) Yeum"
-  picture           : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-DdL_NucF7x9WwqI_y9ar1Vv3GvbjIjBrFpSkeVOonxzUCiOb
+  picture          : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-DdL_NucF7x9WwqI_y9ar1Vv3GvbjIjBrFpSkeVOonxzUCiOb
   bio              : "Mechanical Engineer"
   location         : "KR-Seoul, CA-US"
   links:
