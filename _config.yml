@@ -88,16 +88,16 @@ defaults:
       share: true
 
 # Site Author
+
 author:
   name             : "Kwangwoo(Emmet) Yeum"
-  avatar           : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-DdL_NucF7x9WwqI_y9ar1Vv3GvbjIjBrFpSkeVOonxzUCiOb
+  picture           : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-DdL_NucF7x9WwqI_y9ar1Vv3GvbjIjBrFpSkeVOonxzUCiOb
   bio              : "Mechanical Engineer"
   location         : "KR-Seoul, CA-US"
-  email            : "evolvcor@gmail.com"
   links:
-    - label: "Gmail"
+    - label: "email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:evolvcor@gmail.com
+      url: mailto:evolvcor@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
