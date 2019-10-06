@@ -111,13 +111,13 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
-
+  - title: Feed
     url: mailto:evolvcor@gmail.com
     icon: "fas fa-fw fa-envelope-square"
-
+  - title: Feed
     url: "https://github.com/"
     icon: "fab fa-fw fa-github"
-
+  - title: Feed
     url: "https://instagram.com/"
     icon: "fab fa-fw fa-instagram"
 
