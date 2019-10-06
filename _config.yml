@@ -110,6 +110,6 @@ author:
 footer_links:
   - title: Feed
     url: atom.xml
-    icon: fas fa-rss-square
+    icon: fas fa-fw fa-envelope-square #fas fa-rss-square
 
     
