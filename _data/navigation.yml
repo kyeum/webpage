@@ -8,10 +8,6 @@
 
 - title: External Page
   url: https://github.com/kyeum/kyeum.github.io/
-  
 
-# - title: Tags
-#   url: /tags/
-# - title: Recipes
-#   url: /recipes/
- #  url: https://the-page.com/you-want-to-link-to.html
+- title: Search
+  url: /search/
