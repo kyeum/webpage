@@ -13,8 +13,6 @@ Seoul. California.
 Film.
 
 Coffee. Dogs. Travel. 
-
-<img src="https://images.unsplash.com/photo-1531804055935-76f44d7c3621?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80></img>
-
+<img src="https://photos.google.com/share/AF1QipOPuinGA9-GSc5mmBq-l_hqHHsOVIGRcnKFbqLztQ0cnxsnxmPyRNsJoj0_xJ6a6A/photo/AF1QipOoXABEnG-oMcxAwSghGz1AHZnJBrfZ-e5sdv8A?key=emJHQ0VNYkRYaTd4UzMyMS04U1JKMWFkOEd6OW53"></img>
 
 End.
