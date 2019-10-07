@@ -35,6 +35,7 @@ disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
   username: # site's Twitter username, e.g. "mmistakes"
+search: true
 
 # Liquid
 liquid:
@@ -51,7 +52,6 @@ feed:
  #paginate_path: /
 
 # Search
-search: false
 search_full_content: true # can have performance implications for large sites
 
 # Taxonomy pages
