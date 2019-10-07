@@ -3,13 +3,12 @@
 - title: Home
   url: /
 - title: External Page
-  url: https://github.com/kyeum/kyeum.github.io/edit/master/_data/navigation.yml
-
-# - title: Categories
-#   url: /categories/
+  url: https://github.com/kyeum/kyeum.github.io/
+  
+- title: Categories
+  url: /
 # - title: Tags
 #   url: /tags/
 # - title: Recipes
 #   url: /recipes/
-# - title: External Page
  #  url: https://the-page.com/you-want-to-link-to.html
