@@ -2,8 +2,8 @@
 title: "Full Building and Control Process of the Skiing Robot"
 date: 2019-10-05 08:26:28 -0400
 categories: Skiing Robot
-youtubeId: v=A_zuHvBlvkA
+youtubeId: A_zuHvBlvkA
 ---
 -Full Building and Control Process of the Skiing Robot from 2017 to 2018(스키로봇의 총 제작영상)-
 
-{% _include youtubePlayer.html id=page.v=A_zuHvBlvkA %}
+{% include youtubePlayer.html id=page.A_zuHvBlvkA %}
