@@ -13,6 +13,6 @@ Seoul. California.
 Film.
 
 Coffee. Dogs. Travel. 
-<img src="https://github.com/kyeum/kyeum.github.io/edit/master/photos/DSC06216.jpg"></img>
+<img src="https://github.com/kyeum/kyeum.github.io/blob/master/photos/DSC06216.jpg?raw=true"></img>
 
 End.
