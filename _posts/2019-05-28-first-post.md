@@ -14,6 +14,6 @@ Film.
 
 Coffee. Dogs. Travel. 
 
-<img src="photos/DSC06216.jpg"></img>
+<img src="https://github.com/kyeum/kyeum.github.io/photos/DSC06216.jpg"></img>
 
 End.
