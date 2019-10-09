@@ -14,6 +14,6 @@ Film.
 
 Coffee. Dogs. Travel.
 
-![title](/photos/do different.png){: width="200" height="100"}
+![title](/photos/do different.png){: width="100%" height="100%"}
 
 End.
