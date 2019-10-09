@@ -12,7 +12,8 @@ Seoul. California.
 
 Film.
 
-Coffee. Dogs. Travel. 
+Coffee. Dogs. Travel.
+
 ![title](/photos/do different.png){: width="200" height="100"}
 
 End.
