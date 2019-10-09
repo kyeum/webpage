@@ -17,6 +17,6 @@ Humanoid Robot : RND_ZS
 
 International robot contest missions.
 
-![title](/photos/Rules in IRC.png){: width="200" height="100"}
+![title](/photos/Rules in IRC.png){: width="300" height="150"}
 
 
