@@ -4,6 +4,7 @@ date: 2019-09-30 08:26:28 -0400
 categories: Humanoid IRC
 ---
 # Humanoid robot contest
-![title](/photos/humanoid robot ZS.png){: width="200" height="100"}
+![title](/photos/2015 IRC.png){: width="200" height="100"}
 
 Humanoid Robot : RND_ZS
+President awards at 10th international robot contest 2015
