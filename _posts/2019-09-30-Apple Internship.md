@@ -4,8 +4,8 @@ date: 2019-09-30 08:26:28 -0400
 categories: U.S Apple
 ---
 
+# Apple inc 2018.09 ~ 2019.02
 
-Apple inc
 ![title](/photos/Apple1.jpeg){: width="50%" height="50%"}
 ![title](/photos/Apple2.jpeg){: width="50%" height="50%"}
 ![title](/photos/Apple3.jpeg){: width="50%" height="50%"}
