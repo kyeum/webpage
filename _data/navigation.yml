@@ -5,6 +5,9 @@
 
 - title: Categories
   url: /list/categories/
+  
+- title: Tags
+  url: /list/tags/
 
 - title: External Page
   url: https://github.com/kyeum/kyeum.github.io/
