@@ -7,4 +7,6 @@ categories: Bosch Germany
 
 Team : Predevelopment department at Buhlertal Bosch gmbh
 
+![title](/photos/Bosch1.png){: width="50%" height="50%"}
+![title](/photos/Bosch2.png){: width="50%" height="50%"}
 
