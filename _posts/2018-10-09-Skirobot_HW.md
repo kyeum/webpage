@@ -6,5 +6,13 @@ categories: Humanoid Robotics
 
 # Hardware and Design in Ski Robot Challenge 2018
 ## Skiing Robot System
+![title](/photos/Skirobot_body.png){: width="100%" height="100%"}
+
+![title](/photos/Skirobot_leg.png){: width="100%" height="100%"}
+
+![title](/photos/Skirobot_ankle.png){: width="100%" height="100%"}
+
+![title](/photos/Skirobot_pendulum.png){: width="100%" height="100%"}
+
 ![title](/photos/Robot modules.png){: width="100%" height="100%"}
 
