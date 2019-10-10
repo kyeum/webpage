@@ -6,8 +6,9 @@ categories: U.S Apple
 
 
 Apple inc
-![title](/photos/Karlsruhe1.jpeg){: width="50%" height="50%"}
-![title](/photos/Karlsruhe2.jpeg){: width="50%" height="50%"}
-![title](/photos/Karlsruhe3.jpeg){: width="50%" height="50%"}
-![title](/photos/Karlsruhe4.jpeg){: width="50%" height="50%"}
-![title](/photos/Karlsruhe5.jpeg){: width="50%" height="50%"
+![title](/photos/Apple1.jpeg){: width="50%" height="50%"}
+![title](/photos/Apple2.jpeg){: width="50%" height="50%"}
+![title](/photos/Apple3.jpeg){: width="50%" height="50%"}
+![title](/photos/Apple4.jpeg){: width="50%" height="50%"}
+![title](/photos/Apple5.jpeg){: width="50%" height="50%"}
+![title](/photos/Apple6.jpeg){: width="50%" height="50%"}
