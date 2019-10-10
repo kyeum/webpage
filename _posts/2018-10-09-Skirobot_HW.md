@@ -19,7 +19,7 @@ Minimized the axis by eliminating unnecessary skiing joint such as the ankle.
 
 ## Skiing Robot Pendulum
 By using linear bush, we were able to add CMG’s mass to the weight of the pendulum.
-![title](/photos/Skirobot_pendulum.png){: width="50%" height="50%"}
+![title](/photos/Skirobot_pendulum2.png){: width="50%" height="50%"}
 
 ## Skiing Robot Prototype
 ![title](/photos/Skirobot_proto.png){: width="50%" height="50%"}
