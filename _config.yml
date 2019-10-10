@@ -20,7 +20,7 @@ title                    : "Kwangwoo(Emmet) Yeum"
 description              : "Mechanical Engineer"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://kyeum.github.io
-logo: /photos/Apple3.jpeg
+logo: https://github.com/kyeum/kyeum.github.io/blob/master/photos/Earth.png?raw=true
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
