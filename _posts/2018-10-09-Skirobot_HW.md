@@ -22,7 +22,7 @@ By using linear bush, we were able to add CMG’s mass to the weight of the pend
 ![title](/photos/Skirobot_pendulum2.png){: width="50%" height="50%"}
 
 ## Skiing Robot Prototype
-![title](/photos/Skirobot_proto.png){: width="50%" height="50%"}
+![title](/photos/Skirobot_proto.png){: width="30%" height="30%"}
 
 ## Skiing Robot Module
 ![title](/photos/Robot modules.png){: width="50%" height="50%"}
