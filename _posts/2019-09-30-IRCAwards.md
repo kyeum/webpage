@@ -1,5 +1,5 @@
 ---
-title: "Humanoid Robot Contest in IRC 2015"
+title: "President Award in International Robot Contest 2015"
 date: 2019-09-30 08:26:28 -0400
 categories: Humanoid IRC
 ---
