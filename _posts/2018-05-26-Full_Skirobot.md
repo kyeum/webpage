@@ -1,6 +1,6 @@
 ---
 title: "Full Building and Control Process of the Skiing Robot"
-date: 2019-10-05 08:26:28 -0400
+date: 2018-05-26 08:26:28 -0400
 categories: Humanoid skirobot
 youtubeId1: 49SarM_rjBU
 youtubeId2: VSVu1sHVj9c
