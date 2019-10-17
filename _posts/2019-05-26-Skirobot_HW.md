@@ -1,6 +1,6 @@
 ---
 title: "Hardware and Design in Ski Robot Challenge 2018"
-date: 2019-10-05 08:26:28 -0400
+date: 2019-05-26 08:26:28 -0400
 categories: Humanoid Robotics
 ---
 
