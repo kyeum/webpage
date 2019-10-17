@@ -1,6 +1,6 @@
 ---
 title: "Design and Control of Humanoid Ski Robot Platform"
-date: 2019-10-05 08:26:28 -0400
+date: 2018-05-26 08:26:28 -0400
 categories: Humanoid SkiRobot
 ---
 # Design and Control of Humanoid Ski Robot Platform(인간형 스키로봇 플랫폼의 설계 및 제어)
