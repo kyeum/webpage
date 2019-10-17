@@ -5,6 +5,11 @@ categories: U.S Apple
 ---
 
 # Apple inc 2018.09 ~ 2019.02
+Wonderful life at Apple
+[project]
+confidential
+Research in the industrial field related to product design
+DFA, DFM in cosmetic accessory products
 
 ![title](/photos/Apple1.jpeg){: width="50%" height="50%"}
 ![title](/photos/Apple2.jpeg){: width="50%" height="50%"}
