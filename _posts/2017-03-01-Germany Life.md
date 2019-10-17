@@ -1,6 +1,6 @@
 ---
 title: "Germany life?"
-date: 2019-09-30 08:26:28 -0400
+date: 2017-03-01 08:26:28 -0400
 categories: Yeum Germany
 ---
 
