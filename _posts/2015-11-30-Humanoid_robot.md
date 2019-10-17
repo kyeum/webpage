@@ -1,6 +1,6 @@
 ---
 title: "Humanoid Robot Contest in IRC"
-date: 2019-09-30 08:26:28 -0400
+date: 2015-11-30 08:26:28 -0400
 categories: Humanoid
 ---
 
