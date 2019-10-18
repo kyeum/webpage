@@ -18,6 +18,9 @@ RND Laboratory at Seoul national university of science and technology
 Four mission in IRC.
 : Running, Basketball, Bowling, Handball
 
+{% include youtubePlayer.html id=page.youtubeId %}
+
+
 
 
 
