@@ -36,7 +36,9 @@ In geometry, the term Dubins path typically refers to the shortest curve that co
 
 Balancing is important part in skiing robot since small disturbance or different center of gravity will change whole skiing thesis and path algorithm. Thus while skiing robot moves, it needs to balance for more accurate path planning. Each leg has force sensor for ZMP control
 
-![title](/photos/Skirobot_pendulum2.png){: width="50%" height="50%"} ![title](/photos/Skirobot_control.png){: width="50%" height="50%"}
+![title](/photos/Skirobot_pendulum2.png){: width="50%" height="50%"} 
+
+![title](/photos/Skirobot_control.png){: width="80%" height="80%"}
 
 Zero moment point is a concept related with dynamics and control of legged locomotion, e.g., for humanoid robots. It specifies the point with respect to which dynamic reaction force at the contact of the foot with the ground does not produce any moment in the horizontal direction, i.e. the point where the total of horizontal inertia and gravity forces equals 0 (zero). The concept assumes the contact area is planar and has sufficiently high friction to keep the feet from sliding.
 
