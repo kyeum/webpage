@@ -6,7 +6,7 @@ categories: Humanoid Robotics
 
 # Hardware and Design in Ski Robot Challenge 2018
 ## Skiing Robot System
-![title](/photos/Skirobot_body.png){: width="50%" height="50%"}
+![title](/photos/Skirobot_body.png){: width="40%" height="40%"}
 
 To mimic human motion, we used two four-bar linkage mechanism in one leg to reduce weak parts such as hip and ankle. We also used worm gear to control the ankles to get rid of unnecessary actuators and to make skiing motions. We chose pendulum and CMG model on the upper waist to prevent falling. 
 
