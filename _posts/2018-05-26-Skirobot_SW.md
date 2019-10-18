@@ -18,9 +18,11 @@ This is main system in Skirobot using MFC C++ dialog. With mirroring device, use
 
 ## Ski Thesis
 ![title](/photos/Skirobot_thesis.png){: width="30%" height="30%"} ![title](/photos/Skirobot_snowthesis.png){: width="30%" height="30%"}
+
 We did a research on not only ski but also the snow affects.
 
 ![title](/photos/ski_inversekinematics.png){: width="80%" height="80%"}
+
 Calculate inversekinematics based on double-four-linkange system in each leg, we would like to determine how skiing works in path planning.
 
 ## Path algoritm
@@ -32,11 +34,11 @@ In geometry, the term Dubins path typically refers to the shortest curve that co
 ## Skirobot_Balancing
 ![title](/photos/Skirobot_Loadcell.png){: width="50%" height="50%" ![title](/photos/Skirobot_zmp.png){: width="50%" height="50%"}
 
-Balancing is important part in skiing robot since small disturbance or different center of gravity will change whole skiing thesis and path algorithm. Thus while skiing robot moves, it needs to balance for more accurate path planning. 
-
+Balancing is important part in skiing robot since small disturbance or different center of gravity will change whole skiing thesis and path algorithm. Thus while skiing robot moves, it needs to balance for more accurate path planning. Each leg has force sensor for ZMP control
 
 ![title](/photos/Skirobot_pendulum2.png){: width="50%" height="50%"} ![title](/photos/Skirobot_control.png){: width="50%" height="50%"}
 
+Zero moment point is a concept related with dynamics and control of legged locomotion, e.g., for humanoid robots. It specifies the point with respect to which dynamic reaction force at the contact of the foot with the ground does not produce any moment in the horizontal direction, i.e. the point where the total of horizontal inertia and gravity forces equals 0 (zero). The concept assumes the contact area is planar and has sufficiently high friction to keep the feet from sliding.
 
 
 ## Flag detection
