@@ -1,5 +1,5 @@
 ---
-title: "Bosch life?"
+title: "Bosch Internship?"
 date: 2017-02-28 08:26:28 -0400
 categories: Bosch Germany
 ---
