@@ -7,7 +7,9 @@ categories: KIST
 # Present Projects
 2019.11 ~ 
 Theme : Design of the gait rehabilitation device
+
 ㆍDesign robot orthotic device to help the patient retrain motor coordinate for walking.
+
 ㆍStudy to improve control algorithms that reflect clinical trials and their results.
 
 ![title](/photos/Center for bionics.png){: width="80%" height="80%"}
