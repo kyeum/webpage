@@ -66,6 +66,18 @@ Lidar should be good way to improve depth detection. we used Hokuyo 2D lidar sen
 
 [2] B. Nemec and L. Lahajnar, “Control and navigation of the skiing robot,” in Proceedings of the 2009 IEEE/RSJ international conference on Intelligent robots and systems, ser. IROS’09. Piscataway, NJ, USA: IEEE Press, 2009, pp. 2321–2326.
 
-[3] B. Nemec, J. Babic and L. Zlajpah, “Multilayer Control of Skiing Robot” in Proceedings of the 2011 IEEE/RSJ international conference on Intelligent robots and systems.
+[3] B. Nemec, J. Babic and L. Zlajpah, “Multilayer Control of Skiing Robot” in Proceedings of the 2011 IEEE/RSJ international conference on Intelligent robots and systems,
 
+[4] M. Walker, H. Culbertson, M. Raitor and M. Okamura “Haptic Orientation Guidance Using Two Parallel Double-Gimbal Control Moment Gyroscopes“ IEEE TRANSACTIONS ON HAPTICS, JUNE 2017
+
+[5] Ski sidecut radius and radius of a carved turn from
+http://diginfo.ru/en/alpine-ski/ski-sidecut-radius-and-radius-of-a-carved-turn/
+
+[6] Ski Turn radius from http://www.brentaski.com/skiradius/
+
+[7] Hyun Gyu Shin, Young Soo Kim “A Study about Identity of Teaching Skill Terminology for Alpine Skiing” Journal of Sport and Leisure Studies, 2008
+
+[8] 오경현 “ A study on the attitude control of quad-rotor using CMG” RISS, 2014
+
+[9] “Global robot market outlook”IFR, 2015
 
