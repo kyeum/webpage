@@ -16,7 +16,7 @@ RND Laboratory at Seoul national university of science and technology
 ![title](/photos/Rules in IRC.png){: width="300" height="150"}
 
 Four mission in IRC.
-1. Running, Basketball, Bowling, Handball
+: Running, Basketball, Bowling, Handball
 
 
 
