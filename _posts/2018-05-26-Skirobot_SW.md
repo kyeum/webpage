@@ -29,7 +29,7 @@ Reference for the skiing robot
 Calculate inversekinematics based on double-four-linkange system in each leg, we would like to determine how skiing works in path planning.
 
 ## Path algoritm
-![title](/photos/Path algoritm.png){: width="50%" height="50%"}
+![title](/photos/Path algoritm2.png){: width="50%" height="50%"}
 
 Used Dubins’ path planning Algorithms, build predetermined path before having feedback
 In geometry, the term Dubins path typically refers to the shortest curve that connects two points in the two-dimensional Euclidean plane (i.e. x-y plane) with a constraint on the curvature of the path and with prescribed initial and terminal tangents to the path, and an assumption that the vehicle traveling the path can only travel forward. If the vehicle can also travel in reverse, then the path follows the Reeds–Shepp curve.
