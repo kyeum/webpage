@@ -9,7 +9,7 @@ youtubeID : uLoEofWt3sk
 RND Laboratory at Seoul national university of science and technology 
 Humanoid Robot : RND_ZS
 
-![title](/photos/humanoid robot ZS.png){: width="200" height="100"}
+![title](/photos/humanoid robot ZS.png){: width="100%" height="100%"}
 
 
 
@@ -17,7 +17,7 @@ Humanoid Robot : RND_ZS
 Four mission in IRC.
 : Running, Basketball, Bowling, Handball
 
-![title](/photos/Rules in IRC.png){: width="300" height="150"}
+![title](/photos/Rules in IRC.png){: width="100%" height="100%"}
 
 {% include youtubePlayer.html id=page.youtubeID %}
 
