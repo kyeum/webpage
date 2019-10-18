@@ -16,20 +16,24 @@ Skirobot Software should gather all the thesises and algorithms to get it to fit
 
 This is main system in Skirobot using MFC C++ dialog. With mirroring device, user use this program and examine the specific data for better result. This system include Ski thesis, Path algorithm, Flag detection which is main source in the skiing robot.
 
+
 ## Ski Thesis
 ![title](/photos/Skirobot_thesis.png){: width="30%" height="30%"} ![title](/photos/Skirobot_snowthesis.png){: width="30%" height="30%"}
 
-We did a research on not only ski but also the snow affects.
+While doing a research on Ski, we can found the path could be determined by the ski radius(depends on which ski you use). Since we need to get as small radius as possible, we decided to use children's ski for accurate ski path planning. Moreover, the huge disturbance and error can be maden by the snows. There's huge differences between artificial snows, and real snows, which changed a lot related to the thermal situations. Thus we should make a variables to set up snow factors.
+
 
 ![title](/photos/ski_inversekinematics.png){: width="80%" height="80%"}
 
-Calculate inversekinematics based on double-four-linkange system in each leg, we would like to determine how skiing works in path planning.
+Calculate inversekinematics based on double-four-linkange system in each leg, we would like to determine how skiing works in path planning. So to speak, based on path each legs' length would be determined.
+
 
 ## Path algoritm
 ![title](/photos/Path algoritm2.png){: width="80%" height="80%"}
 
 Used Dubins’ path planning Algorithms, build predetermined path before having feedback
 In geometry, the term Dubins path typically refers to the shortest curve that connects two points in the two-dimensional Euclidean plane (i.e. x-y plane) with a constraint on the curvature of the path and with prescribed initial and terminal tangents to the path, and an assumption that the vehicle traveling the path can only travel forward. If the vehicle can also travel in reverse, then the path follows the Reeds–Shepp curve.
+
 
 ## Skirobot_Balancing
 ![title](/photos/Skirobot_Loadcell.png){: width="50%" height="50%" ![title](/photos/Skirobot_zmp.png){: width="50%" height="50%"}
@@ -43,10 +47,12 @@ Balancing is important part in skiing robot since small disturbance or different
 Zero moment point is a concept related with dynamics and control of legged locomotion, e.g., for humanoid robots. It specifies the point with respect to which dynamic reaction force at the contact of the foot with the ground does not produce any moment in the horizontal direction, i.e. the point where the total of horizontal inertia and gravity forces equals 0 (zero). The concept assumes the contact area is planar and has sufficiently high friction to keep the feet from sliding.
 
 
+
 ## Flag detection
 ![title](/photos/Flag detection.png){: width="80%" height="80%"}
 
 There are 5 pairs of flags on the competition slope. Since it was random in the beginning, the robot should detect flags wisely. We use ZED stereo camera to detect colors as well as a distance between flags. Zed camera can detect depth image with in 10m, which can be enough for the skiing flag detection. In process, we parse RGB colors, Erode and Dilation process for removing errors, using point cloud for depth data. With the data already determined, length between two flags, we can detect the center of the two flags. 
+
 
 
 ![title](/photos/Lidar.png){: width="80%" height="80%"}
