@@ -5,8 +5,8 @@ categories: Robotics
 ---
 Robogames 2017
 
-![title](/photos/robogames.jpeg){: width="30%" height="30%"}
+![title](/photos/robogames.jpeg){: width="50%" height="50%"}
 
-![title](/photos/robogames_robot.jpg){: width="30%" height="30%"}
+![title](/photos/robogames_robot.jpg){: width="60%" height="60%"}
 
 
