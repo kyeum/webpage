@@ -20,10 +20,7 @@ This is main system in Skirobot using MFC C++ dialog. With mirroring device, use
 ![title](/photos/Skirobot_thesis.png){: width="30%" height="30%"} ![title](/photos/Skirobot_snowthesis.png){: width="30%" height="30%"}
 
 ![title](/photos/Skirobot_slovenia.png){: width="50%" height="50%"}
-Reference for the skiing robot
-[1] L. Lahajnar, A. Kos, and B. Nemec, “Skiing robot-design, control, and navigation in unstructured environment,” Robotica, vol. 27, pp. 567–577, July 2009.
-[2] B. Nemec and L. Lahajnar, “Control and navigation of the skiing robot,” in Proceedings of the 2009 IEEE/RSJ international conference on Intelligent robots and systems, ser. IROS’09. Piscataway, NJ, USA: IEEE Press, 2009, pp. 2321–2326.
-[3] B. Nemec, J. Babic and L. Zlajpah, “Multilayer Control of Skiing Robot” in Proceedings of the 2011 IEEE/RSJ international conference on Intelligent robots and systems,
+
 
 ![title](/photos/ski_inversekinematics.png){: width="50%" height="50%"}
 Calculate inversekinematics based on double-four-linkange system in each leg, we would like to determine how skiing works in path planning.
@@ -36,18 +33,23 @@ In geometry, the term Dubins path typically refers to the shortest curve that co
 
 ## Skirobot_zmp
 ![title](/photos/Skirobot_Loadcell.png){: width="50%" height="50%" ![title](/photos/Skirobot_zmp.png){: width="50%" height="50%"}
+
 ![title](/photos/Skirobot_pendulum2.png){: width="50%" height="50%"} ![title](/photos/Skirobot_control.png){: width="50%" height="50%"}
 
 
 
 ## Flag detection
-![title](/photos/Flag detection.png){: width="100%" height="100%"}
+![title](/photos/Flag detection.png){: width="80%" height="80%"}
 
-![title](/photos/Lidar.png){: width="100%" height="100%"}
-
-
+![title](/photos/Lidar.png){: width="80%" height="80%"}
 
 
-## Motion Tester
-![title](/photos/Skirobot_tester.png){: width="50%" height="50%"}
+## Reference for the skiing robot
+
+[1] L. Lahajnar, A. Kos, and B. Nemec, “Skiing robot-design, control, and navigation in unstructured environment,” Robotica, vol. 27, pp. 567–577, July 2009.
+
+[2] B. Nemec and L. Lahajnar, “Control and navigation of the skiing robot,” in Proceedings of the 2009 IEEE/RSJ international conference on Intelligent robots and systems, ser. IROS’09. Piscataway, NJ, USA: IEEE Press, 2009, pp. 2321–2326.
+
+[3] B. Nemec, J. Babic and L. Zlajpah, “Multilayer Control of Skiing Robot” in Proceedings of the 2011 IEEE/RSJ international conference on Intelligent robots and systems.
+
 
