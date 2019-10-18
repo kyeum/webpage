@@ -2,18 +2,24 @@
 title: "Humanoid Robot Contest in IRC"
 date: 2015-11-30 08:26:28 -0400
 categories: Humanoid
+youtubeID : uLoEofWt3sk
 ---
 
-# Humanoid robot contest
+# 2015 International Robotics Contest(IRC)
 ![title](/photos/humanoid robot ZS.png){: width="200" height="100"}
+
 Humanoid Robot : RND_ZS
 
-## RND Laboratory at Seoul national university of science and technology 
+RND Laboratory at Seoul national university of science and technology 
 
-###### 2015 International Robotics competition
-
-International robot contest missions.
-
+# Missons
 ![title](/photos/Rules in IRC.png){: width="300" height="150"}
+
+Four mission in IRC.
+1. Running, Basketball, Bowling, Handball
+
+
+
+
 
 
