@@ -1,10 +1,10 @@
 ---
-title: "Apple Internship"
+title: "Apple inc 2018.09 ~ 2019.02"
 date: 2019-09-30 08:26:28 -0400
 categories: U.S Apple
 ---
 
-# Apple inc 2018.09 ~ 2019.02
+# Apple internship 2018.09 ~ 2019.02
 Wonderful life at Apple
 [project - confidential]
 * Research in the industrial field related to product design
