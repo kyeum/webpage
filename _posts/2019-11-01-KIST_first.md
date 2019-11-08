@@ -6,7 +6,7 @@ categories: KIST
 
 # Present Projects
 2019.11 ~ 
-Theme : Design of the gait rehabilitation device
+Theme : Design of the gait rehabilitation device using soft-skeleton devices
 
 ㆍDesign robot orthotic device to help the patient retrain motor coordinate for walking.
 
