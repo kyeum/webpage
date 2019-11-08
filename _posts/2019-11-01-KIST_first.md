@@ -1,10 +1,10 @@
 ---
-title: "Korea Institute of Science and Technology"
+title: "Korea Institute of Science and Technology. Present~"
 date: 2019-11-01 08:26:28 -0400
 categories: KIST
 ---
 
-# Present Projects
+# Present
 2019.11 ~ 
 Theme : Design of the gait rehabilitation device using soft-skeleton devices
 
