@@ -1,5 +1,5 @@
 ---
-title: "Design and Control of Humanoid Ski Robot Platform"
+title: "2018 PyeongChang Olympic Ski Robot Challenge "
 date: 2018-05-27 08:26:28 -0400
 categories: Humanoid SkiRobot
 ---
