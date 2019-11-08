@@ -1,5 +1,5 @@
 ---
-title: "Bosch Internship?"
+title: "Robert Bosch Germany 2016.10 ~ 2017.02"
 date: 2017-02-28 08:26:28 -0400
 categories: Bosch Germany
 ---
