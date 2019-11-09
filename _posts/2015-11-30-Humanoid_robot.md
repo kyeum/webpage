@@ -1,7 +1,7 @@
 ---
 title: "Humanoid Robot Contest in IRC"
 date: 2015-11-30 08:26:28 -0400
-categories: Humanoid
+categories: Humanoid Robotics IRC
 youtubeID : uLoEofWt3sk
 ---
 # 2015 International Robotics Contest(IRC)
