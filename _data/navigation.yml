@@ -3,11 +3,11 @@
 - title: Home
   url: /
 
+- title: Profile
+  url: /list/pages/
+  
 - title: Categories
   url: /list/categories/
-
-- title: Profile&Contact
-  url: /list/defaults/
 
 - title: Search
   url: /list/search/
