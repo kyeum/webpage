@@ -1,7 +1,7 @@
 ---
 title: "President Award in International Robot Contest 2015"
 date: 2015-11-30 08:26:28 -0400
-categories: Humanoid IRC
+categories: Humanoid Robotics Awards
 ---
 # Humanoid robot contest
 ![title](/photos/2015 IRC.png){: width="50%" height="50%"}
