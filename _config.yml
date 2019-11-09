@@ -115,10 +115,10 @@ footer_links:
     url: mailto:evolvcor@gmail.com
     icon: "fas fa-fw fa-envelope-square"
   - title: Feed
-    url: "https://github.com/"
+    url: "https://github.com/kyeum"
     icon: "fab fa-fw fa-github"
   - title: Feed
-    url: "https://instagram.com/"
+    url: "https://instagram.com/kw.yeum"
     icon: "fab fa-fw fa-instagram"
 
     
