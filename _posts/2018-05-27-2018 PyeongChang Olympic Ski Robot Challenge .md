@@ -2,7 +2,7 @@
 title: "2018 PyeongChang Olympic Ski Robot Challenge "
 date: 2018-05-27 08:26:28 -0400
 categories: Humanoid SkiRobot
-youtubeId: uQd910mZIGk
+youtubeId: o81_1sdq1gM
 ---
 
 # 2018 PyeongChang Olympic Ski Robot Challenge 
