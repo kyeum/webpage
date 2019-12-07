@@ -5,9 +5,11 @@ categories: Robotics
 youtubeId: 
 ---
 # 2017 Robogames Humanoid robotics competition
-{% include youtubePlayer.html id=page.youtubeId %}
+![title](/photos/robogames_robot.jpg){: width="60%" height="60%"}
 
 ![title](/photos/robogames.jpeg){: width="50%" height="50%"}
 
-![title](/photos/robogames_robot.jpg){: width="60%" height="60%"}
+{% include youtubePlayer.html id=page.youtubeId %}
+
+
 
