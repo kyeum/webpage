@@ -5,6 +5,9 @@ categories: KIST Robotics
 ---
 
 ## Soft Robotics
-![title](/photos/kist_research1.png){: width="50%" height="50%"}
-![title](/photos/kist_research2.png){: width="50%" height="50%"}
-![title](/photos/kist_research3.png){: width="50%" height="50%"}
+![title](/photos/kist_research1.png){: width="30%" height="30%"}
+![title](/photos/kist_research2.png){: width="30%" height="30%"}
+![title](/photos/kist_research3.png){: width="30%" height="30%"}
+
+Intersting field Soft Robotics.
+
