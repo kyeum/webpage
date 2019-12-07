@@ -8,12 +8,10 @@ youtubeID3 : Ei1rDz0k5f0
 youtubeID4 : FD7EZqafEEc
 ---
 # 2015 International Robotics Contest(IRC)
+![title](/photos/humanoid robot ZS.png){: width="50%" height="50%"}
 
 RND Laboratory at Seoul national university of science and technology 
 Humanoid Robot : RND_ZS
-
-![title](/photos/humanoid robot ZS.png){: width="50%" height="50%"}
-
 
 # Missons
 Four mission in IRC.
