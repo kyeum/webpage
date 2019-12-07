@@ -5,3 +5,4 @@ categories: KIST Robotics
 ---
 
 ## Soft Robotics
+![title](/photos/kist research.png){: width="50%" height="50%"}
