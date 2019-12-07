@@ -21,6 +21,8 @@ Theme : Design of the gait rehabilitation device using soft-skeleton devices
 ㆍUser friendly interface with soft-skeleton according to industrial design.
 
 
+![title](/photos/stroke.png){: width="80%" height="80%"}
+
 
 
 
