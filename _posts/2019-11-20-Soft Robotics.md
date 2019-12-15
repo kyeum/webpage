@@ -19,13 +19,18 @@ For above goals, we need several ways to integrate for this system.
 Intersting field Soft Robotics : 
 
 - SMA(Shape Memory Alloy)
-- Soft actuators and Textiles
+- Soft actuators and Texture
 - Augmenting human machine interface with ML,RLssh
 
+## SMA
 ![title](/photos/kist_research1.png){: width="30%" height="30%"}
+
+## Soft Texture like Actuator
+
 ![title](/photos/kist_research2.png){: width="30%" height="30%"}
 ![title](/photos/kist_research3.png){: width="30%" height="30%"}
 
+## Human machine interface
 
 
 ###reference
