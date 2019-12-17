@@ -16,7 +16,7 @@ For above goals, we need several ways to integrate for this system.
 2. Specific sensing and control(EMG, EEG)
 3. Human machine Interface
 
-Intersting field Soft Robotics : 
+Intersting field in Soft Robotics : 
 
 - SMA(Shape Memory Alloy)
 - Soft actuators and Texture
@@ -24,14 +24,18 @@ Intersting field Soft Robotics :
 
 ## SMA
 ![title](/photos/kist_research1.png){: width="30%" height="30%"}
+![title](/photos/kist_research2.png){: width="30%" height="30%"}
 
 ## Soft Texture like Actuator
 
-![title](/photos/kist_research2.png){: width="30%" height="30%"}
 ![title](/photos/kist_research3.png){: width="30%" height="30%"}
 
 ## Human machine interface
 
+RL, ML mechanism for humans
 
 ###reference
-Shap e Memory Alloys and their Application to Actuators for Deployable Structures - University of Cambridge Department of Engineering
+- Shap e Memory Alloys and their Application to Actuators for Deployable Structures - University of Cambridge Department of Engineering
+- New Design of a Soft Robotics Wearable Elbow Exoskeleton Based on Shape Memory Alloy Wire Actuators - Department of Systems Engineering and Automation, Carlos III University of Madrid, Madrid, Spain
+- 
+
