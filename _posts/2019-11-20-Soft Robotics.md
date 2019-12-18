@@ -37,7 +37,8 @@ Intersting field in Soft Robotics :
 RL, ML mechanism interface for indivisual humans' health care.
 : As consider the humans' mentality, people have more interested and care about their health when they directly see how healtier they become when they work out. This kinds of interface will be beneficial and will be future industrial products for the human being.
 
-###reference
+## reference
+
 - Shap e Memory Alloys and their Application to Actuators for Deployable Structures - University of Cambridge Department of Engineering
 - New Design of a Soft Robotics Wearable Elbow Exoskeleton Based on Shape Memory Alloy Wire Actuators - Department of Systems Engineering and Automation, Carlos III University of Madrid, Madrid, Spain
 - Stroke rehabilitation - Peter Langhorne, Julie Bernhardt, Gert Kwakkel
