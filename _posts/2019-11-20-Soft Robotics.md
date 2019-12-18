@@ -23,11 +23,13 @@ Intersting field in Soft Robotics :
 ## Soft Texture like Actuator
 
 ![title](/photos/kist_research3.png){: width="30%" height="30%"}
+
 :Having actuators in normal exoskeleton are getting a limits to be industrialize. Further research in material and chemical will be necessary to overcome issues of current hard exoskeleton mechanism. Soft sensors, Soft actuators will lead next generation for the industry and for the human.
 
 ## SMA
 ![title](/photos/kist_research1.png){: width="30%" height="30%"}
 ![title](/photos/kist_research2.png){: width="30%" height="30%"}
+
 : SMA is one good example for starting a soft robotics. It has not good efficiency but, it will have cheap and powerful solution for the exoskeleton. Thus control actuator of SMA, which has 1~2HZ(human locomotion) will be beneficial for further research. 
 
 ## Human machine interface
