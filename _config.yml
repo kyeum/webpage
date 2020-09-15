@@ -120,5 +120,8 @@ footer_links:
   - title: Feed
     url: "https://instagram.com/kw.yeum"
     icon: "fab fa-fw fa-instagram"
+  - title: Feed
+    url: "https://kyeum.tistory.com"
+    icon: "fab fa-readme"
 
     
