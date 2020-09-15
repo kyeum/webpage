@@ -1,5 +1,5 @@
 ---
-title: "Korea Institute of Science and Technology Present ~"
+title: "Korea Institute of Science and Technology 2019.11 ~ 2020.09"
 date: 2019-11-01 08:26:28 -0400
 categories: KIST
 ---
