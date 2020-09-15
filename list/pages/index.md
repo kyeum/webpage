@@ -56,9 +56,10 @@ Mechanical Engineering
 - CAD (NX10.0, Creo3.0) CAE (NX- Nastran)
 
 Electrical Engineering 
-- MATLAB(Simulink), MCU Design(ARM coretex design - Keil; microvision), PCB(ORCAD)
+- MATLAB, MCU Design(ARM coretex design - Keil; microvision), PCB(ORCAD)
 
-Computer Science(Matlab, MFC based C++, C, C#, Visual Basic)
+Computer Science
+- Matlab, MFC based C++, C, C#, Tensorflow
 
 ## Contact :
 
