@@ -104,7 +104,7 @@ author:
       url: "https://instagram.com/kw.yeum"
     - label: "Resume"
       icon: "fas fa-fw fa-link"
-      url: https://github.com/kyeum/kyeum.github.io/raw/master/KWANGWOO.pdf
+      url: https://kyeum.tistory.com
 
 # Footer Links
 footer_links:
@@ -122,6 +122,6 @@ footer_links:
     icon: "fab fa-fw fa-instagram"
   - title: Feed
     url: "https://kyeum.tistory.com"
-    icon: "fab fa-readme"
+    icon: "fas fa-fw fa-link"
 
     
