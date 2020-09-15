@@ -5,7 +5,7 @@ categories: KIST
 ---
 
 ## Theme : Design of the gait rehabilitation device using soft-skeleton devices
-2019.11 ~ present
+2019.11 ~ 2020.09
 
 - Design robot orthotic device to help the patient retrain motor coordinate for walking.
 - Study to improve control algorithms that reflect clinical trials and their results.
