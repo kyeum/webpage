@@ -7,7 +7,8 @@ categories: KIST
 ## Bionics department at Korea Institute of Science and Technology
 2019.11 ~ 2020.09
 
-Main Project : Design and analysis soft wearable devices for the patients with the accurate and up to date 
+## Main Project
+# Design and analysis soft wearable devices for the patients with the accurate and up to date 
 - Specific 1 :  Design robot orthotic device to help the stroke patient and analysis using soft actuators.
 - Specific 2 :  Build whole DAQ system for gait analysis which includes FSR sensors and UWB sensors on foot, IMU on waist, and pc programming. This DAQ system accumulate datas in 100HZ, and the data will be used for ML.
 
