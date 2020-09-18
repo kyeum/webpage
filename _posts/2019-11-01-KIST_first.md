@@ -7,17 +7,10 @@ categories: KIST
 ## Theme : Design of the gait rehabilitation device using soft-skeleton devices
 2019.11 ~ 2020.09
 
-- Design robot orthotic device to help the patient retrain motor coordinate for walking.
-- Study to improve control algorithms that reflect clinical trials and their results.
+- Project 1 :  Design robot orthotic device with soft actuators to help the stroke patient and analysis using machine learning.
+- Project 2 :  Build whole DAQ system for gait analysis which includes FSR sensors and UWB sensors on foot, IMU on waist, and pc programming. This DAQ system accumulate datas in 100HZ.
 
 ![title](/photos/Center for bionics.png){: width="70%" height="70%"}
-
-## Current Project Skeme
-
-- Design integrated orthotic device using AFO(Ankle Foot Orthosis) and KO(Knee Orthosis) using FSR signals in human rocomotion.
-- User friendly interface with soft-skeleton according to industrial design.
-
-![title](/photos/stroke.png){: width="40%" height="40%"}
 
 ## Soft Robotics
 
@@ -35,22 +28,31 @@ Intersting field in Soft Robotics :
 
 - SMA(Shape Memory Alloy), Soft actuators and Texture, Augmenting human machine interface with ML,RL
 
-## Soft Texture like Actuator
+## Soft Texture like Actuator with SMA
 
 ![title](/photos/kist_research3.png){: width="30%" height="30%"}
 
 :Having actuators in normal exoskeleton are getting a limits to be industrialize. Further research in material and chemical will be necessary to overcome issues of current hard exoskeleton mechanism. Soft sensors, Soft actuators will lead next generation for the industry and for the human.
 
-## SMA
 ![title](/photos/kist_research1.png){: width="30%" height="30%"}
 ![title](/photos/kist_research2.png){: width="30%" height="30%"}
 
 : SMA is one good example for starting a soft robotics. It has not good efficiency but, it will have cheap and powerful solution for the exoskeleton. Thus control actuator of SMA, which has 1~2HZ(human locomotion) will be beneficial for further research. 
 
-## Human machine interface
+## Design DAQ system and UWB sensors
 
 RL, ML mechanism interface for indivisual humans' health care.
 : As consider the humans' mentality, people have more interested and care about their health when they directly see how healtier they become when they work out. This kinds of interface will be beneficial and will be future industrial products for the human being.
+
+
+
+![title](/photos/KIST/DAQ device.png){: width="30%" height="30%"}
+![title](/photos/KIST/Testbed.png){: width="30%" height="30%"}
+![title](/photos/KIST/UWB Algorithms.png){: width="30%" height="30%"}
+![title](/photos/KIST/UWB sensors.png){: width="30%" height="30%"}
+
+
+
 
 ## reference
 
