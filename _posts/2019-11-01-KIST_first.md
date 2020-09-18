@@ -4,33 +4,34 @@ date: 2019-11-01 08:26:28 -0400
 categories: KIST
 ---
 
-## Theme : Design of the gait rehabilitation device using soft-skeleton devices
+## Bionics department at Korea Institute of Science and Technology
 2019.11 ~ 2020.09
 
-- Project 1 :  Design robot orthotic device with soft actuators to help the stroke patient and analysis using machine learning.
-- Project 2 :  Build whole DAQ system for gait analysis which includes FSR sensors and UWB sensors on foot, IMU on waist, and pc programming. This DAQ system accumulate datas in 100HZ.
+Main Project : Design and analysis soft wearable devices for the patients with the accurate and up to date 
+- Specific 1 :  Design robot orthotic device to help the stroke patient and analysis using soft actuators.
+- Specific 2 :  Build whole DAQ system for gait analysis which includes FSR sensors and UWB sensors on foot, IMU on waist, and pc programming. This DAQ system accumulate datas in 100HZ, and the data will be used for ML.
 
 ![title](/photos/Center for bionics.png){: width="70%" height="70%"}
+Skimatic for Gait Analysis and System.
 
-## Soft Robotics
+## Project's Goal
 
-I am considering next generation of soft wearable robots that use innovative textiles and creative mechanisms to provide a more conformal, unobtrusive and compliant means to interface to the human body.
+Next generation of soft wearable robots will use innovative textiles and creative mechanisms to provide a more conformal, unobtrusive and compliant means to interface to the human body.
 
-As compared to a traditional exoskeleton, these systems have several advantages: the wearer's joints are unconstrained by external rigid structures, and the worn part of the suit is extremely light.  These properties minimize the suit's unintentional interference with the body's natural biomechanics and allow for more synergistic interaction with the wearer.
+As compared to a traditional exoskeleton, next generation's system has several advantages: the wearer's joints are unconstrained by external rigid structures, and the worn part of the suit is extremely light.  These properties minimize the suit's unintentional interference with the body's natural biomechanics and allow for more synergistic interaction with the wearer.
 
 For above goals, we need several ways to integrate for this system.
 
 1. Modeling of soft actuators and wearable robots
-2. Specific sensing and control(EMG, EEG)
-3. Human machine Interface
 
-Intersting field in Soft Robotics : 
+- SMA(Shape Memory Alloy), Soft actuators and Texture.
 
-- SMA(Shape Memory Alloy), Soft actuators and Texture, Augmenting human machine interface with ML,RL
+2. Comfortable Human machine Interface DAQ system.
 
-## Soft Texture like Actuator with SMA
+- Cheap, Mobile, overcome the Motion capture system(traditional approach)
 
-![title](/photos/kist_research3.png){: width="30%" height="30%"}
+
+## 1. Soft Texture like Actuator with SMA
 
 :Having actuators in normal exoskeleton are getting a limits to be industrialize. Further research in material and chemical will be necessary to overcome issues of current hard exoskeleton mechanism. Soft sensors, Soft actuators will lead next generation for the industry and for the human.
 
@@ -39,7 +40,7 @@ Intersting field in Soft Robotics :
 
 : SMA is one good example for starting a soft robotics. It has not good efficiency but, it will have cheap and powerful solution for the exoskeleton. Thus control actuator of SMA, which has 1~2HZ(human locomotion) will be beneficial for further research. 
 
-## Design DAQ system and UWB sensors
+## 2. Design DAQ system and UWB sensors
 
 RL, ML mechanism interface for indivisual humans' health care.
 : As consider the humans' mentality, people have more interested and care about their health when they directly see how healtier they become when they work out. This kinds of interface will be beneficial and will be future industrial products for the human being.
