@@ -12,6 +12,7 @@ Main Project : Design and analysis soft wearable devices for the patients with t
 - Specific 2 :  Build whole DAQ system for gait analysis which includes FSR sensors and UWB sensors on foot, IMU on waist, and pc programming. This DAQ system accumulate datas in 100HZ, and the data will be used for ML.
 
 ![title](/photos/Center for bionics.png){: width="70%" height="70%"}
+
 Skimatic for Gait Analysis and System.
 
 ## Project's Goal
