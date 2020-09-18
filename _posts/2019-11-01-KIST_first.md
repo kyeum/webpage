@@ -27,7 +27,6 @@ For above goals, we need several ways to integrate for this system.
 2. Comfortable Human machine Interface DAQ system.
 - Cheap, Mobile, overcome the Motion capture system(traditional approach)
 
-
 ## 1. Soft Texture like Actuator with SMA
 :Having actuators in normal exoskeleton are getting a limits to be industrialize. Further research in material and chemical will be necessary to overcome issues of current hard exoskeleton mechanism. Soft sensors, Soft actuators will lead next generation for the industry and for the human.
 
