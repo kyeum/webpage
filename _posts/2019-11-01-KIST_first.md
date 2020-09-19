@@ -30,23 +30,24 @@ For above goals, we need several ways to integrate for this system.
 ## 1. Soft Texture like Actuator with SMA
 :Having actuators in normal exoskeleton are getting a limits to be industrialize. Further research in material and chemical will be necessary to overcome issues of current hard exoskeleton mechanism. Soft sensors, Soft actuators will lead next generation for the industry and for the human.
 
-![title](/photos/kist_research1.png){: width="30%" height="30%"}
-![title](/photos/kist_research2.png){: width="30%" height="30%"}
+![title](/photos/kist_research1.png){: width="40%" height="40%"}
+![title](/photos/kist_research2.png){: width="40%" height="40%"}
 
 : SMA is one good example for starting a soft robotics. It has not good efficiency but, it will have cheap and powerful solution for the exoskeleton. Thus control actuator of SMA, which has 1~2HZ(human locomotion) will be beneficial for further research.
 
 ## 2. Design DAQ system and UWB sensors
 : Aquiring the stroke patients' data for analysis is tricky, and we wish to accumulate universial data not only from patients but also from normal people. For those reasons, I build up to date DAQ systems, which easily attach to the patients' shoes and belts. This includes, 3 sets UWB senosors and 5 FSR sets in one Insole shoee, and with the BT and UWB communication system, I designed 100hz(10ms) DAQ system. 
 
-![title](/photos/KIST/DAQ device.png){: width="30%" height="30%"}
-![title](/photos/KIST/UWB sensors.png){: width="30%" height="30%"}
+![title](/photos/KIST/DAQ device.png){: width="40%" height="40%"}
+![title](/photos/KIST/UWB sensors.png){: width="40%" height="40%"}
 
 Insole system uses STM32- M4 board and UWB sensors. And, this system will be compared to the Laboratory's Motion capture system.
 
-![title](/photos/KIST/Testbed.png){: width="30%" height="30%"}
+![title](/photos/KIST/Testbed.png){: width="50%" height="50%"}
 
-There are multiple algorithms for the UWB sensors.
-![title](/photos/KIST/UWB Algorithms.png){: width="30%" height="30%"}
+There are multiple algorithms for the UWB sensors. Based on this Algorithm and UWB sensor sets, we can get the coordinates of one foot!
+
+![title](/photos/KIST/UWB Algorithms.png){: width="50%" height="50%"}
 
 
 ## reference
