@@ -8,14 +8,14 @@ categories: KIST
 2019.11 ~ 2020.09
 
 ## Main Project
-# Design and analysis soft wearable devices for the patients with the accurate and up to date 
+# Design and analysis soft wearable devices for the patients with the accurate and up to date devices.
 - Specific 1 :  Design robot orthotic device to help the stroke patient and analysis using soft actuators.
-- Specific 2 :  Build whole DAQ system for gait analysis which includes FSR sensors and UWB sensors on foot, IMU on waist, and pc programming. This DAQ system accumulate datas in 100HZ, and the data will be used for ML.
+- Specific 2 :  Build whole DAQ system for gait analysis which includes FSR sensors and UWB sensors on foot, IMU sensors on waist, and pc. This DAQ system accumulate datas in 100HZ, and the data will in use for Gait Analysis.
 
 ![title](/photos/Center for bionics.png){: width="70%" height="70%"}
 
 ## Project's Goal
-Next generation of soft wearable robots will use innovative textiles and creative mechanisms to provide a more conformal, unobtrusive and compliant means to interface to the human body.
+Next generation of soft wearable robots will use innovative textiles and creative mechanisms to provide a more conformal, unobtrusive. Until now, Researchers tried to use acutators to linearlly and efficiently optimizely control the machines without efficiency. Currently we are looking for underactuated, or other soft actuators, which is cheap and effective to control the bulky machines.
 
 As compared to a traditional exoskeleton, next generation's system has several advantages: the wearer's joints are unconstrained by external rigid structures, and the worn part of the suit is extremely light.  These properties minimize the suit's unintentional interference with the body's natural biomechanics and allow for more synergistic interaction with the wearer.
 
@@ -48,6 +48,11 @@ Insole system uses STM32- M4 board and UWB sensors. And, this system will be com
 There are multiple algorithms for the UWB sensors. Based on this Algorithm and UWB sensor sets, we can get the coordinates of one foot!
 
 ![title](/photos/KIST/UWB Algorithms.png){: width="50%" height="50%"}
+
+## 3. Machine Learning and Gait Analysis
+: By above system, we can get daily bases bulky data sets from human's gait. With this data, we can try to analyse and classify which state of the human's gait.
+
+![title](/photos/KIST/GaitCycle.jpeg){: width="50%" height="50%"}
 
 
 ## reference
