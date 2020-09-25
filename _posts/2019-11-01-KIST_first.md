@@ -30,7 +30,7 @@ For above goals, we need several ways to integrate for this system.
 ## 1. Soft Texture like Actuator with SMA
 :Having actuators in normal exoskeleton are getting a limits to be industrialize. Further research in material and chemical will be necessary to overcome issues of current hard exoskeleton mechanism. Soft sensors, Soft actuators will lead next generation for the industry and for the human.
 
-![title](/photos/kist_research1.png){: width="40%" height="40%"}
+![title](/photos/KIST/SMAARM.png){: width="40%" height="40%"}
 ![title](/photos/kist_research2.png){: width="40%" height="40%"}
 
 : SMA is one good example for starting a soft robotics. It has not good efficiency but, it will have cheap and powerful solution for the exoskeleton. Thus control actuator of SMA, which has 1~2HZ(human locomotion) will be beneficial for further research.
@@ -52,7 +52,7 @@ There are multiple algorithms for the UWB sensors. Based on this Algorithm and U
 ## 3. Machine Learning and Gait Analysis
 : By above system, we can get daily bases bulky data sets from human's gait. With this data, we can try to analyse and classify which state of the human's gait.
 
-![title](/photos/KIST/GaitCycle.jpeg){: width="50%" height="50%"}
+![title](/photos/KIST/GaitCycle.jpeg){: width="80%" height="80%"}
 
 
 ## reference
