@@ -90,8 +90,8 @@ defaults:
 author:
   name             : "Kwangwoo(Emmet) Yeum"
   picture          : https://pbs.twimg.com/profile_images/455973732503142400/oUtnZzpd.jpeg
-  bio              : "Mechanical Engineer"
-  location         : "KR-Seoul, CA-US"
+  bio              : "Product Design Engineer"
+  location         : "Sunnyvale-US"
   links:
     - label: "email"
       icon: "fas fa-fw fa-envelope-square"
