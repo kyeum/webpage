@@ -17,9 +17,9 @@
 remote_theme: "mmistakes/so-simple-theme"
 locale                   : "en-US"
 title                    : "Kwangwoo(Emmet) Yeum"
-description              : "Mechanical Engineer"
+description              : "Product Design Engineer"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: https://kyeum.github.io
+url: https://kyeum.github.io/webpage
 logo: https://avatars1.githubusercontent.com/u/48380390?s=460&v=4
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
