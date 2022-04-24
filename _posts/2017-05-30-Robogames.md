@@ -1,5 +1,5 @@
 ---
-title: "2017 Robogames"
+title: "2017 Robogames in CA"
 date: 2017-05-30 08:26:28 -0400
 categories: Robotics
 youtubeId: 
